@@ -138,7 +138,7 @@ A successful ping test would validate my VPC peering connection because the othe
 
 I had to update my second EC2 instance's security group because I need to allow connectivity I added a new rule that allow all ICMP4 all.
 
-![Image](http://learn.nextwork.org/nostalgic_indigo_jolly_prickly_pear/uploads/aws-networks-peering_7a29d352)
+![Image](https://learn.nextwork.org/nostalgic_indigo_jolly_prickly_pear/uploads/aws-networks-peering_7a29d352?v=1)
 
 ---
 
